@@ -32,5 +32,5 @@ Software development, data / BI analytics, machine learning, and industrial or o
 ## Get in touch
 
 - 📍 Sudbury, Ontario, Canada
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-- 📧 your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/hemaldonga)
+- 📧 hemaldonga369@gmail.com
