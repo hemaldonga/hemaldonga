@@ -3,7 +3,7 @@
 
 **Master of Computational Science · Software and ML Engineer · Sudbury, Ontario**
 
-I build end-to-end systems that sit between data, machine learning, and the people who actually use them — backends, models, and dashboards that work together rather than in isolation. My background combines a four-year computer science degree, industry experience as a full-stack developer, and graduate training in computational methods.
+I build end-to-end systems that sit between data, machine learning, and the people who actually use them, backends, models, and dashboards that work together rather than in isolation. My background combines a four-year computer science degree, industry experience as a full-stack developer, and graduate training in computational methods.
 
 I'm most interested in problems where the output genuinely gets used: tools real operators or analysts rely on, not dashboards nobody opens.
  
